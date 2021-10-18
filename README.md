@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dushunhao
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C voice
+- 🌱 I’m currently learning C Programming Language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qq:1475550374
 
